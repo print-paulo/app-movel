@@ -16,4 +16,5 @@
     <string name="feijao">Feijão (R$ 4,30)</string>
     <string name="refrigerante">Refrigerante Coca-Cola 2L (R$ 5,09)</string>
     <string name="calcular_total_compra">CALCULAR TOTAL COMPRA</string>
+    <string name="voltar">Voltar</string>
 </resources>
