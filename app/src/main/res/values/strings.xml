@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">exercicio1</string>
+    <string name="titulo_main">Calculadora</string>
+    <string name="titulo_sistema_de_compras">Sistema de Compras</string>
+    <string name="digite_valor_1">Digite o valor 1</string>
+    <string name="digite_valor_2">Digite o valor 2</string>
+    <string name="somar">Somar</string>
+    <string name="dividir">Dividir</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="proxima_tela">Próxima Tela</string>
+    <string name="texto_sistema_de_compras">Escolha os seus produtos:</string>
+    <string name="arroz">Arroz (R$ 12,35)</string>
+    <string name="leite">Leite (R$ 2,48)</string>
+    <string name="carne">Carne (R$ 23,99)</string>
+    <string name="feijao">Feijão (R$ 4,30)</string>
+    <string name="refrigerante">Refrigerante Coca-Cola 2L (R$ 5,09)</string>
+    <string name="calcular_total_compra">CALCULAR TOTAL COMPRA</string>
+</resources>
